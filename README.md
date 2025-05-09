@@ -1,6 +1,5 @@
 # CPSC444 : A.I. Project 1 - Hex Game with AI Implementation
 
-## Overview
 This project implements the board game Hex with an intelligent AI opponent using Monte Carlo Tree Search and minimax algorithms. Hex is a connection strategy game played on a hexagonal grid where players aim to create a continuous path from one side of the board to the other.
 
 ## Game Features
